@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lvwcrvft, Frontend-developer on Angular
+- 👀 I’m interested in developing and composing music
+- 🌱 I’m currently learning React
